@@ -67,21 +67,39 @@ dt.predict([[0.5,0.8,9,260, 6,0,1,2]])
 ```
 
 ## Output:
+
+
 ![alt text](Image-1.png)
+
+
 
 ![alt text](Image-2.png)
 
+
+
 ![alt text](Image-3.png)
+
+
 
 ![alt text](Image-4.png)
 
+
+
 ![alt text](Image-5.png)
+
+
 
 ![alt text](Image-6.png)
 
+
+
 ![alt text](Image-7.png)
 
+
+
 ![alt text](Image-8.png)
+
+
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
